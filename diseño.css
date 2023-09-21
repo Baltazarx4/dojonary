@@ -1,0 +1,100 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    
+}
+.encabezadoge{
+    display: flex;
+    justify-content: center;
+
+}
+.encabezado{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(175, 175, 175);
+    align-items: center;
+    width: 910px;
+    margin-top: -8px;
+}
+.busqueda{
+    border: solid black 2px;
+    padding:5px;
+    padding-right: 150px;
+}
+.btn{
+    color:white;
+    background-color: rgb(0, 123, 255);
+    padding: 5px;
+    padding-inline: 10px;
+    box-shadow: 3px 3px 1px black;
+    margin-right: 20px;
+    border: solid 3px black;
+    margin-left: 190px;
+    
+}
+
+
+
+
+.bloques{
+    display:flex;
+    justify-content: center;
+}
+.bloques h1,h4,h5,h2,p{
+    margin:0;
+    padding: 0;
+    padding-top: 6px;
+}
+.bloque1{
+    border: solid black 3px;
+    margin: 30px;
+    display: flex;
+}
+.tilin{
+    display: flex;
+    padding-inline: 20px;
+    
+    align-items: center;
+    flex-direction: column;
+    margin-right: 40px;
+}
+.btn2{
+    background-color: rgb(255, 226, 6);
+    padding: 5px;
+    padding-inline: 15px;
+    box-shadow: 3px 3px 1px black;
+    border: solid 3px black;
+    margin-block: 15px;
+}
+.parrafo{
+    display: flex;
+    align-items: center;
+    margin:30px;
+}
+
+
+
+
+.bloque2{
+    border: solid black 3px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    padding: 13px;
+}
+h2{
+    
+}
+.btn3{
+    background-color: rgb(126, 208, 148);
+    padding: 5px;
+    padding-inline: 15px;
+    box-shadow: 3px 3px 1px black;
+    border: solid 3px black;
+    margin-block: 15px;
+    width: 170px;
+    
+}
+
+
+
+
